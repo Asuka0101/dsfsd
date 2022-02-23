@@ -1,7 +1,7 @@
 const ayarlar = {
   TOKEN: "", // ASSAGIYI OKU
   sahip: "BOTUNUZUN SAHİP ID",
-  prefix: "!"
+  prefix: "a."
 };
 
 module.exports = ayarlar;
