@@ -5,6 +5,7 @@ const ayarlar = {
 };
 
 module.exports = ayarlar;
+playing: ' Asuka❤️ Müzik Botu',
 
 //BOT TOKENINIZI EGER BOT GLITCHDE KALACAK
 //ISE .ENV DOSYASINA
